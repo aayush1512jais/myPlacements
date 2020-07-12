@@ -5,4 +5,4 @@ This application will perform various tasks for student and administrative autho
 The various types of reports will be available quickly without any effort.
 It helps the students to provide their profiles to the training and placement cell of the institute, update their respective profiles with their gradual approach towards 
 course end.
-This application helpful to get to know about the companies coming for the on campus/off campus interviews. Also used get to know about tests conducted by the HR.. 
+This application helpful to get to know about the companies coming for the on campus/off campus interviews. Also used get to know about tests conducted by the HR.
